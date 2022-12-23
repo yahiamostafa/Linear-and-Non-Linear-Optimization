@@ -46,6 +46,9 @@ $x_1 + x_2 <= 2$
 
 $x_1^2 - x_2 <= 0$ 
 
+![image](https://user-images.githubusercontent.com/61708947/209392209-312b2c6e-9bba-4943-bf98-fa209fde211a.png)
+
+
 ### Hand Analysis Solution
 
 1) **Lagrangian function** ==> $L(x_1,x_2,s_1,s_2) = (x_1 - 2 ) ^ 2 + (x_2 - 2) ^ 2 + λ_1(x_1 + x_2 - 2 + s_1^2) + λ_2(x_1^2 - x_2 + s_2^2)$
