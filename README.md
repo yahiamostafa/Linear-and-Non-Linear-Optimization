@@ -41,5 +41,11 @@ The benefits of this application are that there is no limit to the number of var
 
 ---
 What if we added two constraints, making the problem **Non-Linear Contrained**?
+
 $x1 + x2 <= 2$
+
 $x1^2 - x2 <= 0$ 
+
+### Hand Analysis Solution
+
+1) **Lagrangian function** ==> $L(x_1,x2,s1,s2) = (x1 - 2 ) ^ 2 + (x2 - 2) ^ 2 + II1(x1 + x2 - 2 + s$
