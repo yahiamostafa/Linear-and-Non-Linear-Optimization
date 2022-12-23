@@ -60,9 +60,13 @@ $x_1 + x_2 <= 2$
 
 $x_1^2 - x_2 <= 0$ 
 
-**$λ_1(x_1 + x_2 - 2 + s_1^2) = 0$**
+**$λ_1(x_1 + x_2 - 2) = 0$**
 
-**$λ_2(x_1^2 - x_2 + s_2^2)$**
+**$λ_2(x_1^2 - x_2) = 0$**
+
+$x_1 + x_2 <= 2$
+
+$x_1^2 - x_2 <= 0$ 
 
 $λ_1 >= 0 , λ_2 >= 0$
 
@@ -80,7 +84,9 @@ so from 1 2 and 3
 
 now we are having 4 equations in 4 unknows solving them simultaneously
 
+we have $x_2 = 2$ 
 
+After solving the above equations, you will get some points. For a point to be accepted, it must satisfy all condolences.
 
 
 
