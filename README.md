@@ -37,3 +37,9 @@ Now Let's solve the problem
 
 The benefits of this application are that there is no limit to the number of variables or iterations, but of course you've got to make sure that your requirements are suitable for your hardware.
 
+**N.B The HESSIAN MATRIX CAN'T BE SINGULAR. **
+
+---
+What if we added two constraints, making the problem **Non-Linear Contrained**?
+$x1 + x2 <= 2$
+$x1^2 - x2 <= 0$ 
