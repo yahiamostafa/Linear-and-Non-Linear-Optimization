@@ -21,11 +21,12 @@ Luckily, there are a neumrical methods to get an aproximate solution:
     - Gradient. represents the direction of greatest change
     - Learning Rate defines the adjustment in the weights of our network with respect to the loss gradient descent
     - Threshold to indeicate when the program should be stopped. 
-3) **Newton-Raphson**.
+2) **Newton-Raphson**.
   - **Parameters**
     - Current Point
     - Gradient.
     - Hessian Matrix of second order mixed partials of a scalar field
     - Learning Rate.
 
-
+Now Let's solve the problem
+![image](https://user-images.githubusercontent.com/61708947/209344205-5cb6617d-b0d2-43e9-b6fd-995fef00cadc.png)
