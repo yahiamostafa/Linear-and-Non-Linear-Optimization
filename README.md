@@ -8,7 +8,7 @@ run this command
 ### Unconstrained Non Linear Optimization
 Which is a type of problems where the objective function is non-linear and it doesn't have any constrains 
 
-Taking $f(x1,x2) = (x1 - 2 ) ^ 2 + (x2 - 2) ^ 2$ which is a function in two variables **x1 , x2**.
+Taking $f(x_1,x_2) = (x_1 - 2 ) ^ 2 + (x_2 - 2) ^ 2$ which is a function in two variables **x_1 , x_2**.
 
 ![image](https://user-images.githubusercontent.com/61708947/209340770-ed16ed43-5f35-4bf3-b3c2-ed265a5dc176.png)
 
@@ -42,10 +42,10 @@ The benefits of this application are that there is no limit to the number of var
 ---
 What if we added two constraints, making the problem **Non-Linear Contrained**?
 
-$x1 + x2 <= 2$
+$x_1 + x_2 <= 2$
 
-$x1^2 - x2 <= 0$ 
+$x_1^2 - x_2 <= 0$ 
 
 ### Hand Analysis Solution
 
-1) **Lagrangian function** ==> $L(x_1,x2,s1,s2) = (x1 - 2 ) ^ 2 + (x2 - 2) ^ 2 + II1(x1 + x2 - 2 + s$
+1) **Lagrangian function** ==> $L(x_1,x_2,s_1,s_2) = (x_1 - 2 ) ^ 2 + (x_2 - 2) ^ 2 + λ_1(x_1 + x_2 - 2 + s_1^2) + λ_2(x_1^2 - x_2 + s_2^2)$
