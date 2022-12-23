@@ -92,4 +92,11 @@ we have $x_2 = 2$
 After solving the above equations, you will get some points. For a point to be accepted, it must satisfy all condolences.
 
 
+### MATLAB
+
+We can use **MATLAB** to get the optimal point
+
+using [This Script](constrained_non_linear_optimization.m) 
+
+The optimal point is **(0.994 , 1.0006)**. which satsifies all the KKT conditions.
 
