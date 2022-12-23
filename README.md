@@ -30,3 +30,10 @@ Luckily, there are a neumrical methods to get an aproximate solution:
 
 Now Let's solve the problem
 ![image](https://user-images.githubusercontent.com/61708947/209344205-5cb6617d-b0d2-43e9-b6fd-995fef00cadc.png)
+
+![image](https://user-images.githubusercontent.com/61708947/209345026-868be38b-8226-49ba-896d-86f26b8bea5a.png)
+
+![image](https://user-images.githubusercontent.com/61708947/209345072-a0c20584-bc17-4c70-b3b0-2d036b88df3a.png)
+
+The benefits of this application are that there is no limit to the number of variables or iterations, but of course you've got to make sure that your requirements are suitable for your hardware.
+
