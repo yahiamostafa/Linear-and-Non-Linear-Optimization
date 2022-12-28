@@ -51,7 +51,7 @@ $x_1^2 - x_2 <= 0$
 
 ### Hand Analysis Solution
 
-1) **Lagrangian function** ==> $L(x_1,x_2,s_1,s_2) = (x_1 - 2 ) ^ 2 + (x_2 - 2) ^ 2 + λ_1(x_1 + x_2 - 2 + s_1^2) + λ_2(x_1^2 - x_2 + s_2^2)$
+1) **Lagrangian function** ==> $L(x_1,x_2,s_1,s_2,λ_1,λ_2) = (x_1 - 2 ) ^ 2 + (x_2 - 2) ^ 2 + λ_1(x_1 + x_2 - 2 + s_1^2) + λ_2(x_1^2 - x_2 + s_2^2)$
 
 where **s_1 & s_2** are slack variables.
 
