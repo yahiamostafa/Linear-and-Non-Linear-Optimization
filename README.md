@@ -8,7 +8,7 @@ run this command
 ### Unconstrained Non Linear Optimization
 Which is a type of problems where the objective function is non-linear and it doesn't have any constrains 
 
-Taking $f(x_1,x_2) = (x_1 - 2 ) ^ 2 + (x_2 - 2) ^ 2$ which is a function in two variables **x_1 , x_2**.
+Taking $f(x_1,x_2) = (x_1 - 2 ) ^ 2 + (x_2 - 2) ^ 2$ which is a function in two variables **$x_1 , x_2$**.
 
 ![image](https://user-images.githubusercontent.com/61708947/209340770-ed16ed43-5f35-4bf3-b3c2-ed265a5dc176.png)
 
