@@ -81,9 +81,9 @@ $▽g_2 = (2x_1,-1)$ ==> 3
 
 so from 1 2 and 3
 
-**$2x_1 - 4 + λ_1 + λ_2 x_1 = 0$**
+**$2x_1 - 4 + λ_1 + λ_2 * 2x_1 = 0$**
 
-**$2x_2 - 4 = 0$**
+**$2x_2 - 4 + λ_1 - λ_2 = 0$**
 
 now we are having 4 equations in 4 unknows solving them simultaneously
 
